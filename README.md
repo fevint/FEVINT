@@ -1,6 +1,6 @@
 ### Hi there, I'm Fevint Krhisma Dwinanda 👋
 
-<!--
+
 
 
 ### Hi, I'm Fevint Krhisma Dwinanda
@@ -16,6 +16,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on RS Syafira Pekanbaru
+ 🔭 I’m currently working on RS Syafira Pekanbaru
 
--->
+
