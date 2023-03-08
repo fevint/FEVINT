@@ -2,9 +2,6 @@
 
 
 
-
-### Hi, I'm Fevint Krhisma Dwinanda
-
 <p align="center"><br /><br />
 <img src="https://github-readme-stats.vercel.app/api?username=fevint&show_icons=true&include_all_commits=true&theme=monokai" alt="fevint GitHub stats"/> <br /> 
 
