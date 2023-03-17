@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 
  🔭 I’m currently working on RS Syafira Pekanbaru
  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.www.linkedin.com/in/fevint/)
-
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fevint/)
 
